@@ -1,5 +1,6 @@
 # space_invaders
-A minimalistic implementation of Space Invaders in DOS using registers, PIT Control and interrupt handling
+A minimalistic implementation of Space Invaders in DOS using registers, PIT Control, interrupt handling and CGA mode.
+No 
 
 Compiled using Turbo-C
 
