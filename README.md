@@ -8,9 +8,9 @@ Using DosBox or any other DOS emulator, run space_invaders.exe
 
 # EXAMPLE PICS
 
-![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/3b3d918a-4b72-4416-b214-5d156855f59c)
-![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/2afc118c-06ca-4c80-8c4e-c55175e0894f)
+![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/3b3d918a-4b72-4416-b214-5d156855f59c | width=100)
+![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/2afc118c-06ca-4c80-8c4e-c55175e0894f | width=100)
 
-![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/bcd9d545-cbf9-44c2-9f58-a30402fcced0)
-![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/a7f7b8d2-974c-4ccf-913b-18f38befae96)
-![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/2736df69-30dc-466b-9115-0b63f4bb5841)
+![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/bcd9d545-cbf9-44c2-9f58-a30402fcced0 | width=100)
+![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/a7f7b8d2-974c-4ccf-913b-18f38befae96 | width=100)
+![image](https://github.com/GoodMoodMan/space_invaders/assets/86624574/2736df69-30dc-466b-9115-0b63f4bb5841 | width=100)
