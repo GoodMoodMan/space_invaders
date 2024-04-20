@@ -1,5 +1,5 @@
 # space_invaders
-A minimalistic implementation of Space Invaders in DOS using registers and interrupt handling
+A minimalistic implementation of Space Invaders in DOS using registers, PIT Control and interrupt handling
 
 Compiled using Turbo-C
 
